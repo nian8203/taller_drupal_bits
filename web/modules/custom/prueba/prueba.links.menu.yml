@@ -1,0 +1,6 @@
+prueba.admin:
+  title: 'Entrenamiento Bits'
+  description: 'example of how to make an admin settings page link'
+  parent: system.admin_config_development
+  route_name: prueba.settings
+  weight: 100

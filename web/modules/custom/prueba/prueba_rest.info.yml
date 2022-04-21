@@ -1,0 +1,6 @@
+name: Prueba Rest API
+description: Prueba rest API
+package: Custom
+
+type: module
+core_version_requirement: ^8 || ^9

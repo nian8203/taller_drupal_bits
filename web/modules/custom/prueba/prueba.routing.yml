@@ -1,0 +1,7 @@
+prueba.settings:
+  path: '/admin/config/prueba/settings'
+  defaults:
+    _form: '\Drupal\prueba\Form\PruebaForm'
+    _title: 'example'
+  requirements:
+    _permission: 'my_form acceso clave bits api'

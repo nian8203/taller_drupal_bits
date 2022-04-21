@@ -1,0 +1,4 @@
+services:
+  prueba_service.form:
+    class: Drupal\prueba\Plugin\PruebaService
+    # class: Drupal\prueba\Form\PruebaForm
